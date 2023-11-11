@@ -1,4 +1,4 @@
-<!-- Variables (this block will not be visible in the readme -->
+<!-- Variables (this block will not be visible in the readme  aa a-->
 [spigot]: https://www.spigotmc.org/resources/79599/
 [spigotRatingImg]: https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=rating&query=%24.rating.average&suffix=%20%2F%205&url=https%3A%2F%2Fapi.spiget.org%2Fv2%2Fresources%2F79599
 [spigotDownloadsImg]: https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=downloads%20%28spigotmc.org%29&query=%24.downloads&url=https%3A%2F%2Fapi.spiget.org%2Fv2%2Fresources%2F79599
